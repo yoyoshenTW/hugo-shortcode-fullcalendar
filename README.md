@@ -6,7 +6,7 @@
 2. 為了要求統一管理，這份的 CSS 與 JS 都寫在一起，如果 CSS 有與你的原生 class 衝突要調製整
 
 # 如何使用
-請下載這份檔案 [plantuml.html](https://github.com/yoyoshenTW/hugo-shortcode-fullcalendar/blob/main/layouts/shortcodes/fullcalendar.html)
+請下載這份檔案 [fullcalendar.html](https://github.com/yoyoshenTW/hugo-shortcode-fullcalendar/blob/main/layouts/shortcodes/fullcalendar.html)
 並將他放在你 Hugo 網站的根目錄的 *layouts/shortcodes* 底下
 即可完成
 
@@ -29,7 +29,7 @@ This Shortcode is provided for Hugo. The purpose is to display Google Calendar o
 
 # How to use
 
-Please download this file [plantuml.html](https://github.com/yoyoshenTW/hugo-shortcode-fullcalendar/blob/main/layouts/shortcodes/fullcalendar.html)
+Please download this file [fullcalendar.html](https://github.com/yoyoshenTW/hugo-shortcode-fullcalendar/blob/main/layouts/shortcodes/fullcalendar.html)
 and place it in the *layouts/shortcodes* directory of the root directory of your Hugo website
 to complete.
 
