@@ -6,13 +6,9 @@
 2. 為了要求統一管理，這份的 CSS 與 JS 都寫在一起，如果 CSS 有與你的原生 class 衝突要調製整
 
 # 如何使用
-請下載這份檔案 [fullcalendar.html](https://github.com/yoyoshenTW/hugo-shortcode-fullcalendar/blob/main/layouts/shortcodes/fullcalendar.html)
-並將他放在你 Hugo 網站的根目錄的 *layouts/shortcodes* 底下
-即可完成
+請下載這份檔案 [fullcalendar.html](https://github.com/yoyoshenTW/hugo-shortcode-fullcalendar/blob/main/layouts/shortcodes/fullcalendar.html)，並將他放在你 Hugo 網站的根目錄的 *layouts/shortcodes* 底下
 
-接著在你的 markdown 文件中(例如 index.md)
-在需要使用 Fullcalendar 的地方，引用此 shortcode，並在參數放上 API Key 以及 Google Calendar ID
-在經過渲染後即可實現
+接著在你的 markdown 文件中(例如 index.md)需要使用 Fullcalendar 的地方，引用此 shortcode，參數放上 API Key 以及 Google Calendar ID，經過渲染後即可在網頁上看到你的 Google calendar 已經被 import 到 fullcalendar 內。
 
 ## Example
 ```
@@ -29,13 +25,9 @@ This Shortcode is provided for Hugo. The purpose is to display Google Calendar o
 
 # How to use
 
-Please download this file [fullcalendar.html](https://github.com/yoyoshenTW/hugo-shortcode-fullcalendar/blob/main/layouts/shortcodes/fullcalendar.html)
-and place it in the *layouts/shortcodes* directory of the root directory of your Hugo website
-to complete.
+Please download this file [fullcalendar.html](https://github.com/yoyoshenTW/hugo-shortcode-fullcalendar/blob/main/layouts/shortcodes/fullcalendar.html) and place it in the *layouts/shortcodes* directory of the root directory of your Hugo website.
 
-Then in your markdown document (for example, index.md)
-In the place where Fullcalendar needs to be used, refer to this shortcode and put the API Key and Google Calendar ID in the parameters
-It can be realized after rendering
+Then, in your markdown document (e.g., index.md), reference this shortcode where you need to use Fullcalendar, placing the API Key and Google Calendar ID in the parameters. After rendering, you can see your Google Calendar has been imported into Fullcalendar on the webpage.
 
 ## Example
 ```
