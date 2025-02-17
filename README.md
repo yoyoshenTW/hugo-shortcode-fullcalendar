@@ -38,4 +38,6 @@ In the place where Fullcalendar needs to be used, refer to this shortcode and pu
 It can be realized after rendering
 
 ## Example
-
+```
+{{< fullcalendar "YOUR_API_KEY" "YOUR_CALENDAR_ID" >}}
+```
